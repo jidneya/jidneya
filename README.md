@@ -1,5 +1,5 @@
 ## Hi there 👋 
-hello 
+Currently interested in theoretical CS and ways to optimize systems 
 <!--
 **jidneya/jidneya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
